@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">✨ I've been crafting full-stack web applications and playing with data since 2019.  <br>💡 I specialize in building modern web interfaces and developing smart data-driven features.  <br>📚 I'm currently diving deeper into data visualization, data modeling, and backend development with FastAPI <br>📊 I love transforming raw datasets into clean, actionable insights using tools like Pandas, Power BI, and custom dashboards.  <br>🎯 My goals:  <br>- Build robust web applications with clean, maintainable code  <br>- Master data analytics and BI techniques  <br>- Combine web dev & data to create tools that solve real world problems  <br><br>🎲 Fun fact: I treat frontend as art and datasets like treasure maps 🗺️🎨</p>
+<p align="left">
+  ✨ I've been crafting full-stack web applications and playing with data since 2019.  <br>
+  💡 I specialize in building modern web interfaces and developing smart data-driven features.  <br>
+  📚 I'm currently diving deeper into data visualization, data modeling, and backend development with FastAPI.  <br>
+  📊 I love transforming raw datasets into clean, actionable insights using tools like Pandas, Power BI, and custom dashboards.  <br>
+  🎯 My goals:  <br>
+  - Build robust web applications with clean, maintainable code  <br>
+  - Master data analytics and BI techniques  <br>
+  - Combine web dev & data to create tools that solve real world problems  <br><br>
+  🎲 Fun fact: I treat frontend as art and datasets like treasure maps 🗺️🎨
+</p>
 
 ###
 
@@ -45,3 +55,13 @@
 </div>
 
 ###
+
+<h2 align="left">A little something extra</h2>
+
+###
+
+<div align="center">
+  <!-- Voici une animation sympa pour dynamiser ton profil -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="200" alt="Animated coder gif" />
+</div>
+
