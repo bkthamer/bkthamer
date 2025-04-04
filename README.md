@@ -54,14 +54,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###
 
-<h2 align="left">A little something extra</h2>
-
-###
-
-<div align="center">
-  <!-- Voici une animation sympa pour dynamiser ton profil -->
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" height="200" alt="Animated coder gif" />
-</div>
 
